@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi world  👋🤖
+
+. 💻 Front End Developer.
+. 🔭 I’m currently working on affiliate file user application with roles.
+. 👯 I’m looking to collaborate Dapp front-end.
+. 🌱 I’m currently learning AWS and Nextjs.
+. 🤔 I’m looking for help in open source projects.
+. 🏔 I love climbing.
 
 <!--
 **adieltapari/adieltapari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
