@@ -1,8 +1,8 @@
 ### Hi world  👋🤖
 - 💻 Front End Developer.
-- 🔭 I’m currently working on affiliate file user application with roles.
+- 🔭 I’m currently working on Affiliate File user application with roles.
 -  👯 I’m looking to collaborate Dapp front-end.
--  🌱 I’m currently learning AWS and Nextjs.
+-  🌱 I’m currently learning AWS and NextJS.
 -  🤔 I’m looking for help in open source projects.
 -  🏔 I love climbing.
 
